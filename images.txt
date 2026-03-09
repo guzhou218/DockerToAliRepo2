@@ -1,4 +1,4 @@
-tomcat8:5.65-oraclejdk-u311
+docker.io/library/neo4j
 #redis:7.4.1
 #nginx:1.27.2
 #mysql:8.4.3
