@@ -1,4 +1,4 @@
-jdk:11.0.22
+jdk:11
 #redis:7.4.1
 #nginx:1.27.2
 #mysql:8.4.3
