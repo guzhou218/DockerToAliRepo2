@@ -17,8 +17,7 @@
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
 #nacos/nacos-server:v3.0.1
-openjdk:8-jdk-alpine
 anapsix/alpine-java:8_server-jre_unlimited
-
+eclipse-temurin:8-jdk-alpine
 
 
