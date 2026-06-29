@@ -1,7 +1,7 @@
 #docker.io/library/neo4j:4.4.46
 #redis:7.4.1
 #nginx:1.27.2
-mysql:5.7.44
+#mysql:5.7.44
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
 #redis
@@ -17,6 +17,7 @@ mysql:5.7.44
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
 #nacos/nacos-server:v3.0.1
+anapsix/alpine-java:8_server-jre_unlimited
 
 
 
